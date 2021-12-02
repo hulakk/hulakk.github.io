@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2021/12/02/hello-world/"/>
+    <url>/2021/12/02/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>这篇文章是写给自己看的，关于博客内容管理的，内容较为简略，更为详细的内容在这里：<br><a href="https://hexo.io/zh-cn/docs/" title="点击跳转">hexo官方文档</a><br><a href="https://hexo.fluid-dev.com/docs" title="点击跳转">fluid主题官方文档</a>  </p><h3 id="配置文件"><a href="#配置文件" class="headerlink" title="配置文件"></a>配置文件</h3><p><code>_config.yml</code>是全局配置，<code>_config.fluid.yml</code>是主题配置  </p><h3 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h3><p>生成的静态文件为整个<code>public</code>目录，由于资源文件的链接均采用绝对路径（若改为相对路径，主题会出bug），因此必须将<code>public</code>文件夹作为网站的根目录  </p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
